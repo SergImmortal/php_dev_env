@@ -8,6 +8,7 @@ gen
 .vagrant/
 .vagrant
 /.vagrant
+/public/img/*.jpg
 
 # Log files (if you are creating logs in debug mode, uncomment this)
 *.logs

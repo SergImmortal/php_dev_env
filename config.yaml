@@ -1,11 +1,16 @@
 name: application
 hostname: qwe.loc
-path:
+domain: http://qwe.loc
+path: D:\WORK\projects\backend_for_site_on_react
 virtualbox:
   memory: 4096
 ip: 192.168.33.55
 timezone: Europe/Kiev
 db:
-  user: root
+  user: vagrant
   password: vagrant
   name: php_course
+salt: mercury
+bot:
+  token: 1
+  channel: 1
